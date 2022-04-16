@@ -1,0 +1,23 @@
+{
+    "telemetry.machineId": "2dc8f7c287a3fcfb9ca0b1847efee77c420c343c4e56be13286f7f89534c8249",
+    "openedPathsList": {
+        "entries": [
+            {
+                "fileUri": "file:///etc/NetworkManager/NetworkManager.conf"
+            }
+        ]
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/frankcode/.config/Code - OSS/Backups/1642166594420",
+            "uiState": {
+                "mode": 1,
+                "x": 180,
+                "y": 66,
+                "width": 1024,
+                "height": 697
+            }
+        },
+        "openedWindows": []
+    }
+}

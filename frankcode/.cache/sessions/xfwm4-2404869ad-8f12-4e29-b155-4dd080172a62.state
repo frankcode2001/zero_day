@@ -1,0 +1,11 @@
+[CLIENT] 0x3800007
+  [CLIENT_LEADER] 0x3800001
+  [RES_NAME] crashreporter
+  [RES_CLASS] Crashreporter
+  [WM_NAME] Mozilla Crash Reporter
+  [WM_COMMAND] (1) "crashreporter"
+  [GEOMETRY] (465,247,440,371)
+  [GEOMETRY-MAXIMIZED] (465,247,443,371)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0

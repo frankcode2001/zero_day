@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///etc/NetworkManager/NetworkManager.conf" added="2022-01-14T13:24:10.828830Z" modified="2022-01-14T13:40:10.903577Z" visited="2022-01-14T13:24:10.828839Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 4:12;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2022-01-14T13:40:10.903572Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/NetworkManager/NetworkManagerupdate.conf" added="2022-01-14T13:24:48.979515Z" modified="2022-01-14T13:25:33.528564Z" visited="2022-01-14T13:24:48.979529Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2022-01-14T13:25:33.528558Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/c/Program%20Files/Microsoft%20VS%20Code/Code.exe" added="2022-01-19T12:25:59.996921Z" modified="2022-01-19T12:26:09.953510Z" visited="2022-01-19T12:25:59.996923Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2022-01-19T12:26:09.953504Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/c/Users/colea/Downloads/Programs/VSCodeSetup-x64-1.63.2.exe" added="2022-01-19T12:31:01.130539Z" modified="2022-01-19T12:31:10.810573Z" visited="2022-01-19T12:31:01.130543Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2022-01-19T12:31:10.810565Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

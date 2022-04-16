@@ -1,0 +1,11 @@
+[CLIENT] 0x3a00007
+  [CLIENT_LEADER] 0x3a00001
+  [RES_NAME] tilix
+  [RES_CLASS] Tilix
+  [WM_NAME] Tilix: frankcode@frankcode: ~/Desktop
+  [WM_COMMAND] (1) "tilix"
+  [GEOMETRY] (544,43,830,555)
+  [GEOMETRY-MAXIMIZED] (544,43,690,555)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000

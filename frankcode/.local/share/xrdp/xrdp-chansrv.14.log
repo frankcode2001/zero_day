@@ -1,0 +1,24 @@
+[20220118-22:30:49] [INFO ] Socket 12: AF_UNIX connection received
+[20220118-22:31:01] [INFO ] sound_process_training: round trip time 101
+[20220118-22:40:53] [INFO ] Socket 13: AF_UNIX connection received
+[20220118-22:40:53] [INFO ] sound_process_training: round trip time 100
+[20220118-22:51:30] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220118-22:51:30] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220118-22:57:34] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220118-22:57:34] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220118-22:59:16] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220118-22:59:16] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220118-23:03:02] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220118-23:03:02] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220118-23:04:15] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220118-23:04:15] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220118-23:22:12] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220118-23:22:12] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220118-23:27:37] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220118-23:27:37] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220118-23:29:25] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220118-23:29:25] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220118-23:32:27] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220118-23:32:28] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220118-23:32:38] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220118-23:32:38] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8

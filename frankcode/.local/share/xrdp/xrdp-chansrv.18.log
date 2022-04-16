@@ -1,0 +1,8 @@
+[20220201-00:31:54] [INFO ] Socket 12: AF_UNIX connection received
+[20220201-00:32:02] [INFO ] sound_process_training: round trip time 101
+[20220201-00:34:30] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220201-00:34:30] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220201-00:34:38] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220201-00:34:38] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220201-00:34:44] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220201-00:34:44] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8

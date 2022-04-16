@@ -1,0 +1,7 @@
+classify-client.services.mozilla.com:HSTS	0	19023	1675201483865,1,0,2
+firefox.settings.services.mozilla.com:HSTS	1	19023	1675201485020,1,0,2
+services.addons.mozilla.org:HSTS	0	19023	1675200883168,1,0,2
+aus5.mozilla.org:HSTS	0	19023	1675200918810,1,0,2
+shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	0	19023	1675200871179,1,1,2
+normandy.cdn.mozilla.net:HSTS	0	19023	1675201482835,1,0,2
+location.services.mozilla.com:HSTS	1	19023	1675201123130,1,1,2
